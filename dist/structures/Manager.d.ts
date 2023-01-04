@@ -31,6 +31,7 @@ interface regexObject {
         mp4Url: RegExp,
         m4aUrl: RegExp,
         wavUrl: RegExp,
+        movUrl: RegExp,
     
 }
 export interface Manager {

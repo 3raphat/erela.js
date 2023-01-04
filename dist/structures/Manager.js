@@ -456,6 +456,7 @@ Manager.regex = {
     mp4Url: /(https?|ftp|file):\/\/(www.)?(.*?)\.(mp4)$/,
     m4aUrl: /(https?|ftp|file):\/\/(www.)?(.*?)\.(m4a)$/,
     wavUrl: /(https?|ftp|file):\/\/(www.)?(.*?)\.(wav)$/,
+    movUrl: /(https?|ftp|file):\/\/(www.)?(.*?)\.(mov)$/,
 
     tiktok: /https:\/\/www\.tiktok\.com\//,
     mixcloud: /https:\/\/www\.mixcloud\.com\//,
